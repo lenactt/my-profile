@@ -1,0 +1,39 @@
+/*Colors and fonts*/
+
+body{
+	background: rgb(248,245,242);
+	color: rgb(86,78,88);
+	font-family: helvetica;
+	font-size: 17px;
+}
+
+h1, h2, h3{
+	color: rgb(12,69,23);
+	font-family: helvetica;
+	font-size: 17px;
+	font-weight: ;
+}
+
+	a {
+  color: rgb(202,254,72);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: rgb(202,254,72);
+  text-decoration: none;
+  background-color: white;
+  padding:15px 20px ;
+  
+}
+div{
+	background: white;
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow: 0 10 px 30px rgba(0, 0, 0, 1.0);
+	width: 700px;
+	margin: 10px auto;
+	border-radius: 50px;
+
+
+}
